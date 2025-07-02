@@ -4,7 +4,7 @@ Dual-Encoding Matching Adversarial Learning for Image Cartoonlization (TCSVT Acc
 
 <div align="center">
  <!--   <img src="images/logo.png" alt="Logo" width="47" height="30" style="margin-right: 10px;"> -->
-  You can visit our paper:<a href="https://ieeexplore.ieee.org/document/10988859"> Dual-Encoding Matching Adversarial Learning for Image Cartoonlization</a>
+  You can visit our paper:<a href="[https://ieeexplore.ieee.org/document/10988859](https://ieeexplore.ieee.org/document/10613820)"> Dual-Encoding Matching Adversarial Learning for Image Cartoonlization</a>
 </h1>
 </div>
 
