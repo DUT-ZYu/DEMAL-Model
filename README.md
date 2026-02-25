@@ -1,6 +1,6 @@
 
 # DEMAL_Model
-Dual-Encoding Matching Adversarial Learning for Image Cartoonlization (TCSVT Accepted!)
+This is the official implementation for our paper "Dual-Encoding Matching Adversarial Learning for Image Cartoonlization" (Accepted)
 
 <div align="center">
  <!--   <img src="images/logo.png" alt="Logo" width="47" height="30" style="margin-right: 10px;"> -->
